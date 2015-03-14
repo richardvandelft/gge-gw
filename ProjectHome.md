@@ -1,0 +1,1 @@
+The Google Gadget Editor for private gadgets within G-workplace
